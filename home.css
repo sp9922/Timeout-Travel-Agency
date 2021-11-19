@@ -1,0 +1,94 @@
+/* home css file */
+body{
+    background-color: #D7E9F7;
+    margin:0px;
+   padding:0px;
+   box-sizing:border-box;
+
+}
+.banner1{
+    width: 940px;
+    height: 400px;
+}
+.pics{
+    width: 300px;
+}
+.align_center{
+    text-align: center;
+}
+.footer1{
+    text-align: center;
+
+}
+.social{
+    text-align: right;
+    text-decoration: none;
+}
+nav{
+    cursor: pointer;
+}
+.mainfooter{
+    background: #C0D0E1;
+}
+.menu{
+    background: #C0D0E1;
+    padding: 5px 0px;
+    /* border-left:1px solid #000;
+    border-right:1px solid #000;*/
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.menu a{
+    text-decoration: none;
+}
+.feed{
+    text-align: justify;
+    text-transform: capitalize;
+}
+.feedback{
+    text-align: justify;
+    word-break: keep-all;
+
+}
+.bxs-star{
+    color: #F0C929;
+}
+.bxs-star-half{
+    color: #F0C929;
+
+}
+.con{
+    color:steelblue;
+}
+.map{
+    width: 940px;
+}
+.main1
+{
+   height:500px;
+   width:53%;
+   margin-left:auto;
+   margin-right:auto;
+   border:2px solid black;
+   padding:5px 20px;
+}
+.name
+{
+    font-size: 25px;
+
+}
+.label
+{
+  margin-bottom:30px;
+  padding:10px 5px;
+  width:470px;
+}
+
+.sub
+{
+   font-size: 25px;
+   width:480px;  
+   padding:10px 5px;   
+   cursor:pointer;              
+}
